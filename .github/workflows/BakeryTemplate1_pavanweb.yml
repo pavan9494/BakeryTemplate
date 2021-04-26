@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'pavanweb'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8e566ff819f8487799dc9e2fcece34d4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d3866a7272bf486e87bc5ba76223f23e }}
         package: .
